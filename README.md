@@ -23,3 +23,6 @@
 - `git branch <NAME>`: create a new branch
 - `git checkout <NAME>` or `git switch <NAME>`: switch to branch
 	- `git swithc -c <NAME>`: create and switch to new branch 
+
+- `git stash`: create a temporary commit for unsaved changes
+
