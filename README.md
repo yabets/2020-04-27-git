@@ -14,3 +14,6 @@
 - remote: a lace where the git repo is stored, e.g., GitHub
 	- `git remote add origin <URl>` add a remote
 - `git push origin master`: to push the master branch on our local to remote named origin
+
+## Collaboration
+- `git clone <URL>`: download the repository from the web to current direcotry on local
